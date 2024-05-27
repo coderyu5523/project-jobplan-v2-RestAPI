@@ -1,4 +1,4 @@
-# 구인구직 사이트
+# 1. 구인구직 사이트
 ![2024-03-11 12 13 52](https://github.com/9oj0e/project-job-plan/assets/126438339/f0b0e1f1-e70d-462f-bf9f-c3fdc937c9d3)
 
 ## 시연 영상
@@ -14,6 +14,22 @@ https://youtu.be/Z4OBhiiVwy4
 - v1 진행 상황 (완료)
 ## [![v2 진행상황](https://github.com/9oj0e/project-job-plan/assets/126438339/f0b0e1f1-e70d-462f-bf9f-c3fdc937c9d3)](https://j0jh96.notion.site/v2-264b24171b3848efa0279038d7a18528?pvs=25)
 - v2 진행 상황
+
+  # 3. 시나리오
+
+  # 3. 시나리오
+
+<table style="border: 2px;">
+<tr>
+  <td align=center>메인 페이지</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-jobplan-v2-RestAPI/assets/153602328/c6f8923d-fd9e-4e2d-9cbb-99b4fae7b64f"  width="256" height="455"/></td>
+</tr>
+
+
+</table>
+
 
 # 개발 환경
 <span>
