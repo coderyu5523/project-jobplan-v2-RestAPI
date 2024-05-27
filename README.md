@@ -7,13 +7,24 @@ https://youtu.be/Z4OBhiiVwy4
 [KDT 2차 미니프로젝트 4조 최종(마무리).pdf](https://github.com/9oj0e/project-jobplan-v2/files/14957270/KDT.2.4.pdf)
 
 
+## 팀원 소개
 
-# 진행상황 확인
-(이미지를 클릭하시면 링크로 이동합니다.)
-## [![v1 진행상황](https://github.com/9oj0e/project-job-plan/assets/126438339/f0b0e1f1-e70d-462f-bf9f-c3fdc937c9d3)](https://j0jh96.notion.site/v1-9ae1b6a3045d4d6cad3f35c540a660f0?pvs=74)
-- v1 진행 상황 (완료)
-## [![v2 진행상황](https://github.com/9oj0e/project-job-plan/assets/126438339/f0b0e1f1-e70d-462f-bf9f-c3fdc937c9d3)](https://j0jh96.notion.site/v2-264b24171b3848efa0279038d7a18528?pvs=25)
-- v2 진행 상황
+### 팀장
+|                                                         이름                                                        |                     프로필 사진                     |       GitHub 주소        |
+|:---------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|:--------------------------:|
+|                                                        조정현(팀장)                                                    | <img src="https://avatars.githubusercontent.com/u/78337301?v=4" alt="profile" width="100" height="100"> | [@9oj0e](https://github.com/9oj0e) |
+
+### 팀원
+|                     이름                     |                     프로필 사진                     |       GitHub 주소        |
+|:-------------------------------------------:|:---------------------------------------------------:|:--------------------------:|
+|                     김성재                  | <img src="https://avatars.githubusercontent.com/u/78337301?v=4" alt="profile" width="100" height="100"> | [@kimsjae](https://github.com/kimsjae)  |
+|                     김정수                  | <img src="https://avatars.githubusercontent.com/u/78337301?v=4" alt="profile" width="100" height="100"> | [@zeeq123](https://github.com/zeeq123)  |
+|                     류재성                  | <img src="https://avatars.githubusercontent.com/u/78337301?v=4" alt="profile" width="100" height="100"> | [@coderyu5523](https://github.com/coderyu5523)  |
+|                     최윤정                  | <img src="https://avatars.githubusercontent.com/u/78337301?v=4" alt="profile" width="100" height="100"> | [@yunchocopie](https://github.com/yunchocopie) |</table>
+
+
+
+
 
 
 # 3. 시나리오
