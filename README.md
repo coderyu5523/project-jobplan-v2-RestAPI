@@ -24,7 +24,7 @@ https://youtu.be/Z4OBhiiVwy4
   <td align=center>메인 페이지</td>
 </tr>
 <tr>
-  <td><img src="https://github.com/coderyu5523/project-jobplan-v2-RestAPI/assets/153602328/c6f8923d-fd9e-4e2d-9cbb-99b4fae7b64f"  width="256" height="455"/></td>
+  <td><img src="https://github.com/coderyu5523/project-jobplan-v2-RestAPI/assets/153602328/c6f8923d-fd9e-4e2d-9cbb-99b4fae7b64f"  width="600" height="455"/></td>
 </tr>
 
 
