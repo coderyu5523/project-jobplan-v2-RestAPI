@@ -15,18 +15,113 @@ https://youtu.be/Z4OBhiiVwy4
 ## [![v2 진행상황](https://github.com/9oj0e/project-job-plan/assets/126438339/f0b0e1f1-e70d-462f-bf9f-c3fdc937c9d3)](https://j0jh96.notion.site/v2-264b24171b3848efa0279038d7a18528?pvs=25)
 - v2 진행 상황
 
-  # 3. 시나리오
 
-  # 3. 시나리오
+# 3. 시나리오
+
 
 <table style="border: 2px;">
 <tr>
-  <td align=center>메인 페이지</td>
+  <td align=center>1.메인 페이지</td>
 </tr>
 <tr>
-  <td><img src="https://github.com/coderyu5523/project-jobplan-v2-RestAPI/assets/153602328/c6f8923d-fd9e-4e2d-9cbb-99b4fae7b64f"  width="600" height="455"/></td>
+  <td><img src="https://github.com/coderyu5523/project-jobplan-v2-RestAPI/assets/153602328/6be3dca9-3bf9-44ac-800f-8f9fcd452f10"  width="600" height="455"/></td>
 </tr>
-
+<tr>
+  <td align=center>2.회원가입(기업)</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/5bc73dc5-fb99-4238-9862-2fd3a73ddf3e"  width="600" height="455"/></td>
+</tr>
+<tr>
+  <td align=center>3.회원가입(개인)</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/ac75a1cb-d775-4546-9617-f7a5c1831e49"  width="600" height="455"/></td>
+</tr>
+<tr>
+  <td align=center>4.회원정보 보기(기업)</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/71a4e44f-8ff6-4bcf-ac67-2670b8da8088"  width="600" height="455"/></td>
+</tr>
+<tr>
+  <td align=center>5.사진 업로드</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/e5b762de-521c-455f-8396-73d981653ea9"  width="600" height="455"/></td>
+</tr>  
+<tr>
+  <td align=center>6.로그인</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/4dc4fac7-a32a-4231-b6f2-68d56384fa71"  width="600" height="455"/></td>
+</tr>  
+<tr>
+  <td align=center>7.공고 등록하기</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/c0776aa5-c30d-4660-8251-11122d41d6a5"  width="600" height="455"/></td>
+</tr>  
+<tr>
+  <td align=center>8.공고 수정하기</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/5e79f6a3-38ec-4a3a-9bdc-1e6c99924574"  width="600" height="455"/></td>
+</tr>  
+<tr>
+  <td align=center>9.회원정보 수정(스킬)</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/07009190-17c6-47be-ab37-e82f51d1d22a"  width="600" height="455"/></td>
+</tr>  
+<tr>
+  <td align=center>10.이력서 작성</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/5ddb3438-03b6-4c4b-87cb-b7196b1cc482"  width="600" height="455"/></td>
+</tr>  
+<tr>
+  <td align=center>11.이력서 수정</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/636822df-e42f-454e-934c-65d6188a1e05"  width="600" height="455"/></td>
+</tr>  
+<tr>
+  <td align=center>12.공고 목록보기(매칭1)</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/289278a3-4c59-4266-b6cb-441c62949e6a"  width="600" height="455"/></td>
+</tr>
+<tr>
+  <td align=center>13.공고 목록보기(매칭2)</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/13a69a13-cce1-4f77-a17b-cf92a9346eb6"  width="600" height="455"/></td>
+</tr>  
+  <tr>
+  <td align=center>14.채용공고 상세보기</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/97815457-d0d9-48f4-8411-c76716922837"  width="600" height="455"/></td>
+</tr>  
+  <tr>
+  <td align=center>15.공고 지원하기</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/e940a019-3d31-4a18-9804-e4d006af5a81"  width="600" height="455"/></td>
+</tr>
+  <tr>
+  <td align=center>16.공고 구독하기</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/8465c1dd-575d-490d-b064-050cdf9aeb55"  width="600" height="455"/></td>
+</tr>
+  <tr>
+  <td align=center>17.공고 평가하기</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/coderyu5523/project-final-spring/assets/153602328/33fb02bb-43be-4b31-a804-b0eb2b9dd5e6"  width="600" height="455"/></td>
+</tr>
 
 </table>
 
