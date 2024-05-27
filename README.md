@@ -24,8 +24,6 @@ https://youtu.be/Z4OBhiiVwy4
 
 
 
-
-
 # 3. 시나리오
 
 
@@ -135,8 +133,44 @@ https://youtu.be/Z4OBhiiVwy4
 
 </table>
 
+# 4. 진행과정
 
-# 4. 개발 환경
+## 조정현
+- 채용공고 합격, 불합격
+- 공고 삭제, 목록 페이지네이션
+- 구독 목록보기, 구독 해제
+- 이력서 평점
+- 스킬 수정
+- 추천인재, 채용공고 매칭
+- AOP
+
+## 김성재
+- 로그인, 로그아웃
+- 채용공고 상세보기
+- 이력서 상세보기
+- 공고 지원하기
+- 공고 구독하기
+- 이력서 제안하기, 제안 목록, 제안 수락 거절
+- Interceptor
+
+## 류재성
+- 회원가입
+- 내가 쓴 공고보기
+- 내가 쓴 이력서 보기
+- 구독 해제하기
+- 공고 평가하기
+- 제목 및 내용 검색, 스킬 검색, 지역 검색, 포지션 검색
+- 사진 업로드
+- 유효성 검사
+
+## 최윤정
+- 회원정보 수정하기
+- 이력서 작성하기
+- 여럭서 구독하기
+- Interceptor
+- ExceptionHandler
+
+# 5. 개발 환경
 <span>
  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width=30" /> IDE</h3>
  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
@@ -169,7 +203,7 @@ https://youtu.be/Z4OBhiiVwy4
 ## 테이블 설계
 ![Screenshot_6](https://github.com/9oj0e/project-job-plan/assets/153602328/09a3287a-b0d2-48da-960a-96ddb952d411)
 
-# 5. 협업 전략
+# 6. 협업 전략
 ### GitHub
 - Branch : 이름 이니셜 날짜 시간
 - commit : 작업 내용에 대한 요약 담기
