@@ -7,7 +7,7 @@ https://youtu.be/Z4OBhiiVwy4
 [KDT 2차 미니프로젝트 4조 최종(마무리).pdf](https://github.com/9oj0e/project-jobplan-v2/files/14957270/KDT.2.4.pdf)
 
 
-## 팀원 소개
+## 2. 팀원 소개
 
 ### 팀장
 |                                                         이름                                                        |                     프로필 사진                     |       GitHub 주소        |
@@ -21,7 +21,6 @@ https://youtu.be/Z4OBhiiVwy4
 |                     김정수                  | <img src="https://avatars.githubusercontent.com/u/78337301?v=4" alt="profile" width="100" height="100"> | [@zeeq123](https://github.com/zeeq123)  |
 |                     류재성                  | <img src="https://avatars.githubusercontent.com/u/78337301?v=4" alt="profile" width="100" height="100"> | [@coderyu5523](https://github.com/coderyu5523)  |
 |                     최윤정                  | <img src="https://avatars.githubusercontent.com/u/78337301?v=4" alt="profile" width="100" height="100"> | [@yunchocopie](https://github.com/yunchocopie) |</table>
-
 
 
 
@@ -137,7 +136,7 @@ https://youtu.be/Z4OBhiiVwy4
 </table>
 
 
-# 개발 환경
+# 4. 개발 환경
 <span>
  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width=30" /> IDE</h3>
  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
@@ -170,7 +169,7 @@ https://youtu.be/Z4OBhiiVwy4
 ## 테이블 설계
 ![Screenshot_6](https://github.com/9oj0e/project-job-plan/assets/153602328/09a3287a-b0d2-48da-960a-96ddb952d411)
 
-## 협업 전략
+# 5. 협업 전략
 ### GitHub
 - Branch : 이름 이니셜 날짜 시간
 - commit : 작업 내용에 대한 요약 담기
