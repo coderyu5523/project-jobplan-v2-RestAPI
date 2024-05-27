@@ -199,7 +199,7 @@ https://youtu.be/Z4OBhiiVwy4
 <br>
 
 ## 프로젝트 아키텍쳐 : RestAPI 설계
-https://github.com/coderyu5523/project-jobplan-v2-RestAPI/assets/153602328/f52a92d0-2a26-4101-82b5-a2919f648dae
+![restapi-image](https://github.com/coderyu5523/project-jobplan-v2-RestAPI/assets/153602328/eece3a9f-f883-4319-9862-d07c36530ca7)
 
 - REST API는 웹 서비스와 상호작용하기 위해 사용되는 아키텍처. REST API는 클라이언트와 서버 간의 통신을 간단하고 직관적으로 만들기 위해 설계되었다.
 
