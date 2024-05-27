@@ -1,7 +1,8 @@
 # 구인구직 사이트
 ![2024-03-11 12 13 52](https://github.com/9oj0e/project-job-plan/assets/126438339/f0b0e1f1-e70d-462f-bf9f-c3fdc937c9d3)
 
-# 시연
+## 시연 영상
+https://youtu.be/Z4OBhiiVwy4
 ## PPT
 [KDT 2차 미니프로젝트 4조 최종(마무리).pdf](https://github.com/9oj0e/project-jobplan-v2/files/14957270/KDT.2.4.pdf)
 
